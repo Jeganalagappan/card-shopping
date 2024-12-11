@@ -157,7 +157,7 @@ function Cart() {
 function Footer(){
   return(
     <div>
-      <h5 className='footer'>Copyright © Your Website 2023</h5>
+      <h5 className='footer'>Copyright @Jega 2024</h5>
     </div>
   )
 }
