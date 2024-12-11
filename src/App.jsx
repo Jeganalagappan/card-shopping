@@ -157,8 +157,8 @@ function Cart() {
 function Footer(){
   return(
     <div>
-      <h5 className='footer'>Copyright @Jega 2024</h5>
-    </div>
+      <a className="text-reset fw-bold" href=" https://peaceful-cupcake-f5ed98.netlify.app/">Jega(URL Shortner)</a>
+  </div>
   )
 }
 
